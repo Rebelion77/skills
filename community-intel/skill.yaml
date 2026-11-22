@@ -1,0 +1,5 @@
+name: "community_intel"
+title: "Community Intelligence"
+description: "Read a crypto project's community as evidence: real vs botted engagement, demand signals, team communication, narrative position and red flags, from public sources only (X, public TG/Discord, GitHub, on-chain holders). Primary integration: supporting evidence for BAW Hunter POTENSI screening verdicts (never overrides hard filters) and for airdrop farming keep/trim/drop reviews."
+category: "Research"
+include_in_prompt: true

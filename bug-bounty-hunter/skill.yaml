@@ -1,0 +1,5 @@
+name: "bug-bounty-hunter"
+title: "Bug Bounty Hunter"
+description: "Authorized bug bounty methodology, fast edition v3.0.0, for in-scope web, API, mobile, GraphQL, WebSocket, and cloud targets, from recon to a complete bounty report. Speed doctrine: race the board, Medium floor, early dup-kill, parallel specialist lanes, no re-sweeps without a new angle."
+category: "Work and knowledge"
+include_in_prompt: true

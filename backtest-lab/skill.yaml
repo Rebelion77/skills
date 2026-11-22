@@ -1,0 +1,5 @@
+name: "backtest_lab"
+title: "Backtest Lab"
+description: "Backtest rule-based trading strategies on historical OHLCV data with mandatory fee/slippage/gas costs, no-look-ahead fills, out-of-sample validation and parameter sensitivity, benchmarked against buy-and-hold, with blunt EDGE / NO EDGE / OVERFIT verdicts. Analysis only — never executes trades."
+category: "Money"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "compliance_cicd_migration"
+title: "Compliance, CI/CD & Migration"
+description: "Engineering-side compliance readiness checklists (GDPR/SOC 2/ISO basics translated into evidence-based controls and gap lists), CI/CD pipeline review (gates, secrets handling, artifact integrity, tested rollback), and code/data migration planning (inventory, strangler strategy, rehearsed data moves, stop conditions). Advisory only — never a legal or audit opinion."
+category: "Engineering"
+include_in_prompt: true
