@@ -1,0 +1,5 @@
+name: "on_chain_safety_rails"
+title: "On-Chain Safety Rails"
+description: "Use this whenever signing, broadcasting, approving, swapping, bridging, staking, or otherwise moving on-chain value — always-on safety rails for keys, user-funds-only, simulate-before-send, and confirm-before-sign."
+category: "Money"
+include_in_prompt: true

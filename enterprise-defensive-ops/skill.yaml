@@ -1,0 +1,5 @@
+name: "enterprise_defensive_ops"
+title: "Enterprise Defensive Ops"
+description: "Defensive security operations for enterprise/cloud environments the user owns or administers: KQL hunting and triage patterns for identity, endpoint and network logs, HIDS (Wazuh/OSSEC) alert triage and integrity monitoring, and firewall/detection rule review with logged blind spots. Defensive and read-only by default — no offensive tooling."
+category: "Security"
+include_in_prompt: true

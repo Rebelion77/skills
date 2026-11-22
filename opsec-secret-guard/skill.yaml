@@ -1,0 +1,5 @@
+name: "opsec_secret_guard"
+title: "Opsec & Secret Guard"
+description: "Defensive opsec for the user's own setup: scan files, bundles and repos for secrets, keys, session material and private PII before anything is shared or uploaded (archives included), respond to leaks with rotation/revocation and history-aware cleanup options, and run read-only wallet/account hygiene checks (session expiry, outstanding approvals, backup exclusion gates). Read-only and redacted by default — never prints a full secret value."
+category: "Security"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "mcp_builder"
+title: "MCP Builder & Prompt Engineering"
+description: "Design and build MCP servers and agent prompts: single-job tools with typed schemas and least-privilege read/write separation, structured errors, scripted test harnesses with fixtures, idempotency and timeout design, plus prompt patterns (structure, few-shot, fixed eval sets, versioning). New servers connect only with the user's approval of source and tool list."
+category: "Engineering"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "executive_function"
+title: "Executive Function Support"
+description: "Break overwhelming work into next physical actions, triage and sequence tasks by real deadlines and unblock value, time-box with honest estimates, and capture clean restart points. Practical productivity support only — no diagnosis, no medical or therapeutic advice."
+category: "Productivity"
+include_in_prompt: true
