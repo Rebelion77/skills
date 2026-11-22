@@ -1,6 +1,9 @@
 # trading-unified — One Disciplined Trading Co-pilot
 
-Version: 1.0.0 · Date: 22 Nov 2026 · Status: authoring complete, NOT yet deployed to any agent or VPS
+Version: 1.0.0 · Date: 22 Nov 2026 · Status: deployed to Hermes VPS
+(`~/.hermes/skills/trading-unified/`, gateway restarted 22 Nov 18:02 WIB) +
+backed up to github.com/Rebelion77/skills (public, commit 8d6079c1).
+Approved Clocked rule A-TREND5 recorded in `templates/rule-spec-a-trend5.md`.
 Owners: Kacung (local Muse) + Hermes (VPS agent). License of this file: original synthesis;
 underlying ideas are attributed per-repo below (all source repos MIT/Apache-2.0).
 
@@ -338,6 +341,8 @@ no langchain, no Docker, no Node, no paid models.
    and 20+ logged trades.
 4. **Mainnet**: only under §3.2 (per-session opt-in, per-order approval,
    −2% daily cap, kill switch armed). Paper rules R1–R10 apply unchanged.
-5. **Deploy**: this skill is NOT deployed anywhere yet. Installing it on
-   Kacung (`~/workspace/custom-skills/`, already here) and on Hermes VPS
-   (`~/.hermes/skills/trading-unified/`) each needs the user's go-ahead.
+5. **Deploy**: deployed 22 Nov 2026 to the Hermes VPS
+   (`~/.hermes/skills/trading-unified/`, gateway restarted) and backed up to
+   github.com/Rebelion77/skills (public). Underlying implementations installed
+   separately: trading-skills core (`~/workspace/custom-skills/trading-skills/`)
+   and hermes-market-skills engine (VPS `~/.hermes/skills/research/market/`).
